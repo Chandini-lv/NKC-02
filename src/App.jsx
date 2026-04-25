@@ -1,5 +1,5 @@
 import './App.css'
-import myImage from '../src/assets/myimage.png'  // import image
+import myImage from '../src/assets/myimage1.png'  // import image
 
 function App() {
   return (
