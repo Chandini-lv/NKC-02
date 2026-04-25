@@ -14,8 +14,14 @@
   object-position: center center;
 }
 
+
+
+
+
 @media (max-width: 767px) {
   .responsive-image {
     object-position: center 60%;
   }
+
+
 }
